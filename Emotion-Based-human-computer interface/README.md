@@ -35,4 +35,6 @@ library of eel
    I advise u to train the model in your pc and then use it(I case you are using any new or updated dataset).
    
 -->for any query u can mail on rajeshdoddegowda@gmail.com.
+
+
 Thank You.
