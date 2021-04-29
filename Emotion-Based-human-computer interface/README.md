@@ -30,9 +30,7 @@ The Flow goes like :: run the detect.py file it will trigger html file which wil
 
 HOW TO RUN ?
 
---> download whole project in single folder as uploaded. If U r familiar with jss by understanding the js model u can easly insert
-
-#of songs bcz we have make the whole javascript code dynamically such that, just by inserting data inyo the correct dictionary in js will make the project to show and run your own choosed musics.
+--> download whole project in single folder as uploaded. If U r familiar with jss by understanding the js model u can easly insert of songs bcz we have make the whole javascript code dynamically such that, just by inserting data inyo the correct dictionary in js will make the project to show and run your own choosed musics.
 
 --> make sure u have installed openCV, opencv contrib, eel, numpy and all it's dependancies.
 library of eel 
